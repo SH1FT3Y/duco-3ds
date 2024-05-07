@@ -1,6 +1,6 @@
 import socket, hashlib
 # Global variables
-username = "user"  # Edit this to your username, mind the quotes
+username = "3DSMINERMAN"  # Edit this to your username, mind the quotes
 pool_address = "51.15.127.80"
 pool_port = 2811
 
